@@ -1,0 +1,2579 @@
+{
+  "type": "flex",
+  "altText": "今天要選哪一間咖啡廳呢？",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Kudos Coffee 酷多思（裕誠旗艦店）",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "176m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄市左營區裕誠路455號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66558890,120.30482910"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "https://www.facebook.com/kudostw/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Louisa Coffee 路易．莎咖啡(高雄裕誠店)",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "436m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄市左營區裕誠路366號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66547200,120.30736600"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "https://www.facebook.com/%E8%B7%AF%E6%98%93%E8%8E%8E%E5%92%96%E5%95%A1-Louisa-Coffee-%E9%AB%98%E9%9B%84%E8%A3%95%E8%AA%A0%E5%BA%97-1819695671592819/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Louisa Coffee路易莎咖啡(高雄昌盛店)",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4.5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "440m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄市鼓山區昌盛路292號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66424420,120.29914700"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "https://www.facebook.com/louisacoffee.292/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "鬲离咖啡館",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4.5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "1",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "1",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "469m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄市左營區新上街253號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66901140,120.30599210"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "https://www.facebook.com/GELIcoffee/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "LA MAISON BERRY 貝瑞家 巨蛋店",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "523m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "左營區新莊仔路614號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66926800,120.30648800"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "https://www.lamaisonberry.com/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Cuiqu Coffee(奎克咖啡)",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4.5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "554m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄市鼓山區博愛二路236號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66075200,120.30339600"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "https://www.facebook.com/cuiqucoffee/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "歐客佬Oklao咖啡農場(高雄瑞豐店)",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "2",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "1",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "559m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄市左營區明倫路85號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66702190,120.29785710"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "http://www.oklaocoffee.com/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "第四紀咖啡",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "627m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄市左營區博愛二路204號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66009800,120.30333400"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "https://www.facebook.com/%E7%AC%AC%E5%9B%9B%E7%B4%80%E5%92%96%E5%95%A1-173037693143767/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "品好乳酪",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "629m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高雄市鼓山區昌盛路379號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66377050,120.29736830"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "https://www.pincheesecake.com/"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "backgroundColor": "#FAF2EB",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "多那之明誠店",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "wifi:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "seat:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "5",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "quiet:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "tasty:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "cheap:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "3",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "music:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "4",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "flex": 0
+                },
+                {
+                  "type": "icon",
+                  "size": "xs",
+                  "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png",
+                  "margin": "xs",
+                  "offsetTop": "1px"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "距離:",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "flex": 5
+                },
+                {
+                  "type": "text",
+                  "text": "632m",
+                  "size": "xs",
+                  "color": "#8c8c8c",
+                  "margin": "sm",
+                  "offsetEnd": "xs",
+                  "flex": 0
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "size": "xs",
+                      "url": "https://image.flaticon.com/icons/png/128/684/684908.png",
+                      "offsetTop": "1px"
+                    },
+                    {
+                      "type": "text",
+                      "text": "813台灣高雄市左營區明誠二路433號",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "action": {
+                        "type": "uri",
+                        "uri": "http://maps.google.com/?q=22.66091200,120.30638500"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "backgroundColor": "#AB835E",
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "Website",
+                "uri": "http://maps.google.com/?q=22.66091200,120.30638500"
+              },
+              "style": "link",
+              "color": "#FAF2EB"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
